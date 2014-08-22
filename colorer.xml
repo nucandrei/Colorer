@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorer>
+  <destination>output.html</destination>
+  <dateformat>HH:mm:ss.SSS</dateformat>
+  <file>
+    <dateformat>yyyyMMdd-HH:mm</dateformat>
+    <compressed>false</compressed>
+    <color>red</color>
+    <path>log.log</path>
+    <from>20140822-00:31</from>
+    <to>20140822-00:34</to>
+  </file>
+</colorer>
