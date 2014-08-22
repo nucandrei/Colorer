@@ -4,7 +4,7 @@ Colorer
 HTML from multiple logs generator
 
 Usage
-
+```
 java -jar colorer.jar -generate number_of_files <= will generate a colorer.xml file that can be filled with information about files to be "colored"
 java -jar colorer.jar                           <= will try to load, parse and execute colorer.xml
 java -jar colorer.jar  file_name                <= will try to load, parse and execute file_name
@@ -30,6 +30,6 @@ colorer.xml example
     <to></to>                                               <- to the end of time
   </file>
 </colorer>
-
+```
 Build command
 mvn package 
